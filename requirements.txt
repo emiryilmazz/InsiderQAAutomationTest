@@ -1,0 +1,4 @@
+selenium==4.18.1
+pytest==8.0.0
+pytest-html==4.1.1
+undetected-chromedriver==3.5.4 
