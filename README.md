@@ -46,7 +46,8 @@ InsiderQATest/
 ## Test Senaryosu
 
 Test aşağıdaki adımları gerçekleştirir:
-1. Ana sayfaya git ve logo kontrolü yap
+
+1. https://useinsider.com/ sitesine git ve logo kontrolü yap
 2. Company menüsünden Careers sayfasına git
 3. Careers sayfasındaki bölümleri kontrol et
 4. Find your dream job butonuna tıkla ve Open Positions sayfasına git
