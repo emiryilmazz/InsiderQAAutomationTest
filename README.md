@@ -49,11 +49,10 @@ Test aşağıdaki adımları gerçekleştirir:
 1. Ana sayfaya git ve logo kontrolü yap
 2. Company menüsünden Careers sayfasına git
 3. Careers sayfasındaki bölümleri kontrol et
-4. Open Positions sayfasına git
-5. QA pozisyonlarını filtrele
-6. İstanbul lokasyonunu seç
-7. Rastgele bir iş ilanı seç ve başvuru formuna git
-8. Her adımda ekran görüntüsü al
+4. Find your dream job butonuna tıkla ve Open Positions sayfasına git
+5. Filter by Department kısmından "Quallity Assurance" seçeneğini seç
+6. Filter by Location kısmından İstanbul lokasyonunu seç
+7. Rastgele bir iş ilanı seç View Role butonuna tıkla ve başvuru kısmına git
 
 # Tüm testleri çalıştır
 pytest tests/test_insider_steps.py -v
