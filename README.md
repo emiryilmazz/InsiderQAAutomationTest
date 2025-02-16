@@ -10,7 +10,7 @@
 
 1. Projeyi bilgisayarınıza klonlayın:
 ```bash
-git clone [gh repo clone emiryilmazz/InsiderQAAutomationTest]
+git clone https://github.com/emiryilmazz/InsiderQAAutomationTest.git
 cd InsiderQATest
 ```
 
